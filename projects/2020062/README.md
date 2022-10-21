@@ -1,10 +1,10 @@
-Ονοματεπώνυμο: Θεοδωρος Σταμπουλης
+Ονοματεπώνυμο: Θεοδωρος Σταμπουλης <br />
+ΑΜ: 2020062 <br />
+email: p20stab@ionio.gr 
 
-ΑΜ: 2020062
-
-Organization: [A-ST4R](https://github.com/A-ST4R)
-
-asciinema: [p2020062](https://asciinema.org/~p2020062)
+Edpuzzle: p20stab Π2020062 <br />
+Organization: [A-ST4R](https://github.com/A-ST4R) <br />
+asciinema: [p2020062](https://asciinema.org/~p2020062) <br />
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
