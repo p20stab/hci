@@ -1,10 +1,10 @@
-Ονοματεπώνυμο: Θεοδωρος Σταμπουλης <br />
-ΑΜ: 2020062 <br />
+Ονοματεπώνυμο: Θεοδωρος Σταμπουλης <br>
+ΑΜ: 2020062 <br>
 email: p20stab@ionio.gr 
 
-Edpuzzle: p20stab Π2020062 <br />
-Organization: [A-ST4R](https://github.com/A-ST4R) <br />
-asciinema: [p2020062](https://asciinema.org/~p2020062) <br />
+Edpuzzle: p20stab Π2020062 <br>
+Organization: [A-ST4R](https://github.com/A-ST4R) <br>
+asciinema: [p2020062](https://asciinema.org/~p2020062) <br>
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
@@ -38,12 +38,12 @@ Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το α
 Αυτη η εβδομάδα ηταν δύσκολη γιατι δεν μπορείς να βρεις κατι εύκολα στο public domain. Το netlify θα το ολοκληρώσω αυτή την εβδομάδα.
 [η τελική αναφορά μου](https://github.com/p20stab/hci/tree/2020062/projects/2020062) για αυτή τι στιγμή
 
-οι εικόνες εχουν μικρύνει λογού οτι ήταν πολύ μεγάλες να προβληθούν.
-[image1](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg)
-[image1 160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg)
+οι εικόνες εχουν μικρύνει λογού οτι ήταν πολύ μεγάλες να προβληθούν.<br>
+[image1](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg)<br>
+[image1 160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg)<br>
 [image1 md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
 
-[image2](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)
-[image2 160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)
+[image2](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)<br>
+[image2 160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)<br>
 [image2 md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
 
