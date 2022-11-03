@@ -38,11 +38,19 @@ Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το α
 Αυτη η εβδομάδα ηταν δύσκολη γιατι δεν μπορείς να βρεις κατι εύκολα στο public domain. Το netlify θα το ολοκληρώσω αυτή την εβδομάδα.
 
 οι εικόνες εχουν μικρύνει λογού οτι ήταν πολύ μεγάλες να προβληθούν.<br>
+[website](https://melodic-malasada-eef077.netlify.app/gallery/pacman_arcade_machine/)
 [image1](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg)<br>
 [image1 160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg)<br>
 [image1 md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
 
+[website](https://melodic-malasada-eef077.netlify.app/gallery/zork_photo/)
 [image2](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)<br>
 [image2 160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)<br>
 [image2 md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
+
+<h1>Παραδοτέο 4 </h1>
+
+
+
+<h1>Παραδοτέο 5 </h1>
 
