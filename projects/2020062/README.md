@@ -13,9 +13,9 @@ asciinema: [p2020062](https://asciinema.org/~p2020062) <br>
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/868) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1097) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | [Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1243) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1507) | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [Παραδοτέο 5] | |
+| 6 | Κατασκευή του βιβλίου Α | [Παραδοτέο 6] | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
@@ -31,7 +31,7 @@ asciinema: [p2020062](https://asciinema.org/~p2020062) <br>
 
 Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το απλο enter και μέσα σε λιγα λεπτά είχε τελείωση αλλα στο τέλος το κατάφερα. Χρησιμοποίησα το διαδίκτυο στα error messages και commands, όπως παράδειγμα secure boot off, και να χρησιμοποιώ sudo στις εντολές.
 
-[journalctl -b / neofetch](https://asciinema.org/a/tf5xKvGvyx6KyuryAyWk1cy3y)
+[journalctl -b / neofetch](https://asciinema.org/a/528928)
 
 <h1>Παραδοτέο 3 </h1>
 
@@ -50,7 +50,8 @@ Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το α
 
 <h1>Παραδοτέο 4 </h1>
 
-
+Σε αυτό το warm up εκτέλεσα τις εντολές για το καιρος και κατέβασα ενα video απο το youtube με θέμα να μην κατεβάζεις παράνομα μουσική
+[asciinema](https://asciinema.org/a/535639)
 
 <h1>Παραδοτέο 5 </h1>
 
