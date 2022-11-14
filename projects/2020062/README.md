@@ -45,12 +45,12 @@ Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το α
 
 οι εικόνες εχουν μικρύνει λογού οτι ήταν πολύ μεγάλες να προβληθούν.<br>
 [website](https://melodic-malasada-eef077.netlify.app/gallery/pacman_arcade_machine/)<br>
-[pacman](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg) 
+[pacman](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg) - 
 [160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg) <br>
 [md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
 
 [website](https://melodic-malasada-eef077.netlify.app/gallery/zork_photo/)<br>
-[zork](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)
+[zork](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg) - 
 [160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)<br>
 [md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
 
