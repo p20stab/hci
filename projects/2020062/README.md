@@ -45,14 +45,14 @@ Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το α
 
 οι εικόνες εχουν μικρύνει λογού οτι ήταν πολύ μεγάλες να προβληθούν.<br>
 [website pacman](https://melodic-malasada-eef077.netlify.app/gallery/pacman_arcade_machine/)<br>
-[image1](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg)<br>
-[image1 160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg)<br>
-[image1 md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
+[image1](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg) 
+[160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg) <br>
+[file1 md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
 
 [website zork](https://melodic-malasada-eef077.netlify.app/gallery/zork_photo/)<br>
-[image2](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)<br>
-[image2 160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)<br>
-[image2 md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
+[image2](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)
+[160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)<br>
+[file2 md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
 
 <h1>Παραδοτέο 4 </h1>
 
