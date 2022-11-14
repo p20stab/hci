@@ -44,15 +44,15 @@ Arch linux σε USB 3.0 128gb. Η εγκατάσταση δεν ήταν το α
 Αυτη η εβδομάδα ηταν δύσκολη γιατι δεν μπορείς να βρεις κατι εύκολα στο public domain. Το netlify θα το ολοκληρώσω αυτή την εβδομάδα.
 
 οι εικόνες εχουν μικρύνει λογού οτι ήταν πολύ μεγάλες να προβληθούν.<br>
-[website pacman](https://melodic-malasada-eef077.netlify.app/gallery/pacman_arcade_machine/)<br>
-[image1](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg) 
+[website](https://melodic-malasada-eef077.netlify.app/gallery/pacman_arcade_machine/)<br>
+[pacman](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine.jpg) 
 [160px](https://github.com/p20stab/images/blob/2020062/pacman_arcade_machine_thumb.jpg) <br>
-[file1 md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
+[md](https://github.com/p20stab/_gallery/blob/2020062/pacman_arcade_machine.md)
 
-[website zork](https://melodic-malasada-eef077.netlify.app/gallery/zork_photo/)<br>
-[image2](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)
+[website](https://melodic-malasada-eef077.netlify.app/gallery/zork_photo/)<br>
+[zork](https://github.com/p20stab/images/blob/2020062/zork_photo.jpg)
 [160px](https://github.com/p20stab/images/blob/2020062/zork_photo_thumb.jpg)<br>
-[file2 md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
+[md](https://github.com/p20stab/_gallery/blob/2020062/zork_photo.md)
 
 <h1>Παραδοτέο 4 </h1>
 
