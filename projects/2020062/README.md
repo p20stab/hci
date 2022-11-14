@@ -2,7 +2,7 @@
 ΑΜ: 2020062 <br>
 email: p20stab@ionio.gr 
 
-profil github: [p20stab]() <br>
+profile github: [p20stab]() <br>
 Edpuzzle: p20stab Π2020062 <br>
 asciinema: [p2020062](https://asciinema.org/~p2020062) <br>
 
