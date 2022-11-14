@@ -7,7 +7,6 @@ Edpuzzle: p20stab Π2020062 <br>
 asciinema: [p2020062](https://asciinema.org/~p2020062) <br>
 
 Organization: [A-ST4R](https://github.com/A-ST4R) <br>
-Netlify Site: <br>
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
